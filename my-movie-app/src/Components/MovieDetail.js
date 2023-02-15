@@ -14,7 +14,7 @@ const MovieDetail = ({ movie }) => {
         <div className="w-2/3 p-4">
           <h2 className="text-2xl font-medium text-gray-900 mb-4">{movie.title}</h2>
           <p className="text-gray-700 text-sm mb-4">{movie.release_date}</p>
-          <p className="text-gray-700 text-sm">{movie.description}</p>
+          <p className="text-gray-700 text-sm">{movie.overview}</p>
         </div>
       </div>
     </div>
