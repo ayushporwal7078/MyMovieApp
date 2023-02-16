@@ -33,9 +33,12 @@ $ npm start
 # Run server
 $ npm run server
 
+Added TailwandCSS cdn link to index.html file.
+
 Create Header, MovieList, MovieDetails component.
 
 Integrate with the TMDB API to retrieve movie information.
+
 Create API Key and URL to fetch data from TMDI API.
 
 
